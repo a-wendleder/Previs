@@ -29,7 +29,6 @@ Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin
 * Interaktive Umschaltung von metrisch auf angloamerikanisches System
 * Erstellung von ausblendbaren Konstruktions- und Bemaßungs-Layern sollte möglich sein
 * Oben genanntes System würde eine „Durchdringung“ von Bauelementen sowie Lichtern, Rigs und Kameras  automatisch verhindern
-
 * Möglichkeit des Imports von Geometrie und entsprechenden Texturen / Shadern (OSL) aus Maya oder anderen 3D Programmen
 * Angestrebt werden sollte eine komplett interaktive Arbeitsumgebung im VR Editor nach automatischem Import von Geometrie und dazugehörigen Texturen und Shadern
 * Wichtig ist die intuitive Benutzerführung des Anwenders durch eine klare Erstellungspipeline zur Vermeidung von Fehlern (“Wizard-Guide“)
@@ -41,7 +40,6 @@ Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin
 * Möglichkeit der Einblendung von Storyboards zum Szenen basierten Arbeiten
 * Simulation der Kameraoptik und interaktiver Arbeit mit Blenden und Brennweiten
 * „Virtueller Blick“ durch den Viewfinder incl. Interaktion      
-
 * Möglichkeit des „Einleuchtens“ durch den Sucher der Kamera (GI Lichtsimulation, Interaktion mit Scheinwerfern)
 * Möglichkeit der Platzierung von Set-Elementen unter Berücksichtigung von Brennweite und Bildausschnitt
 * Aus jedem User/in-Blickwinkel im Set sollte sich per Knopfdruck eine virtuelle Kamera erstellen lassen
@@ -64,8 +62,7 @@ Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin
 * Der „Blick“ durch den zu setzenden Spot würde die Lichtgestaltung erheblich vereinfachen
 * Auch eine „reverse“ Lichtsetzung währe nur in dieser virtuellen Umgebung möglich (s.h. ein virtueller Belichtungsmesser wird am zu beleuchtenden Objekt angebracht und die gewünschte Helligkeit eingestellt – die Scheinwerfer werden entsprechend automatisch platziert und in ihrer Stärke justiert
 
-## Datennutzung, -auswertung, -aufarbeitung : 
-          
+## Datennutzung, -auswertung, -aufarbeitung:
 Am Ende des Prozesses steht die logische Weiterführung des Systems, nämlich die Auswertung und Nutzung der gewonnenen Daten. Es bestehen mehrere Möglichkeiten mit den gewonnenen Setdaten am realen Set weiterzuarbeiten :
 
 * AR-Einspielung direkt vor Ort mit Hilfe von Ipad, Iphone, Hololens, Magicleap würde eine große Hilfe bei der Set-Einrichtung -Konstruktion bieten (setzen von Markern mit Hilfe in VR gewonnener Proportionen und Abmessungen
