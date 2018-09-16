@@ -4,7 +4,7 @@ Knuth Möde\
 Akademischer Mitarbeiter Szenografie/VFX\
 Filmuniversität Potsdam Babelsberg\
 
-#Lösungsentwurf für ein VR gestütztes Pre-Visualisierungssystem (VIVE, Unreal Umgebung) im kreativen Kontext der Filmuniversität
+# Lösungsentwurf für ein VR gestütztes Pre-Visualisierungssystem (VIVE, Unreal Umgebung) im kreativen Kontext der Filmuniversität
 
 Im Folgenden soll der Versuch unternommen werden ein System der Pre-Visualisierung zu erschaffen welches möglichst viele Aspekte der realen Filmproduktion am Set berücksichtigt.
 Es handelt sich hierbei um eine Sammlung von Rechercheergebnissen Ideen und Fragestellungen.
@@ -15,9 +15,9 @@ Im Einzelnen geht es um die möglichst Wirklichkeitsnahe Simulation von:
 Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin's von Schauspielern
 
 ## Recherche:
-* welche Elemente einer Location lassen sich unter welchen Einschränkungen erschaffen
-* welche Möglichkeiten gibt es, bestehende Drehlocations (sets und props) in die VR-Umgebung zu integrieren (Laserscans, Photogrammetrie, in 3D Software erstellte Props)
-* welche Rendermethodik sollte verwendet werden um die Darstellung möglichst fotorealistisch zu erstellen (GI, PBR unter Echtzeitbedingungen)
+* Welche Elemente einer Location lassen sich unter welchen Einschränkungen erschaffen
+* Welche Möglichkeiten gibt es, bestehende Drehlocations (sets und props) in die VR-Umgebung zu integrieren (Laserscans, Photogrammetrie, in 3D Software erstellte Props)
+* Welche Rendermethodik sollte verwendet werden um die Darstellung möglichst fotorealistisch zu erstellen (GI, PBR unter Echtzeitbedingungen)
 
 ## Programmieraufwand:
 * Ermittlung der Methoden zur „instant“ Importierung von sets und props
@@ -64,7 +64,7 @@ Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin
 * Der „Blick“ durch den zu setzenden Spot würde die Lichtgestaltung erheblich vereinfachen
 * Auch eine „reverse“ Lichtsetzung währe nur in dieser virtuellen Umgebung möglich (s.h. ein virtueller Belichtungsmesser wird am zu beleuchtenden Objekt angebracht und die gewünschte Helligkeit eingestellt – die Scheinwerfer werden entsprechend automatisch platziert und in ihrer Stärke justiert
 
-## Daten -Nutzung, -Auswertung, -Aufarbeitung : 
+## Datennutzung, -auswertung, -aufarbeitung : 
           
 Am Ende des Prozesses steht die logische Weiterführung des Systems, nämlich die Auswertung und Nutzung der gewonnenen Daten. Es bestehen mehrere Möglichkeiten mit den gewonnenen Setdaten am realen Set weiterzuarbeiten :
 
