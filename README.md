@@ -2,7 +2,7 @@
 
 Knuth Möde\
 Akademischer Mitarbeiter Szenografie/VFX\
-Filmuniversität Potsdam Babelsberg\
+Filmuniversität Potsdam Babelsberg
 
 # Lösungsentwurf für ein VR gestütztes Pre-Visualisierungssystem (VIVE, Unreal Umgebung) im kreativen Kontext der Filmuniversität
 
