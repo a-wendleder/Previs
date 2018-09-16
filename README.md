@@ -7,7 +7,7 @@ Filmuniversität Potsdam Babelsberg
 # Lösungsentwurf für ein VR gestütztes Pre-Visualisierungssystem (VIVE, Unreal Umgebung) im kreativen Kontext der Filmuniversität
 
 Im Folgenden soll der Versuch unternommen werden ein System der Pre-Visualisierung zu erschaffen welches möglichst viele Aspekte der realen Filmproduktion am Set berücksichtigt.
-Es handelt sich hierbei um eine Sammlung von Rechercheergebnissen Ideen und Fragestellungen.
+Es handelt sich hierbei um eine Sammlung von Rechercheergebnissen, Ideen und Fragestellungen.
 Ziel sollte sein eine möglichst komplette Simulation der Drehumgebung zu erschaffen, die hilft,  ökonomische, künstlerische und organisatorische Probleme zu lösen. Oder zu erleichtern. Grundvoraussetzung ist die Zusammenarbeit infrage kommender Studienzweige um die Anforderungen der jeweiligen Fachrichtungen erfüllen zu können. Es könnte eine Plattform geschaffen werden aus der jeder einen Mehrwert ziehen kann.
 Zur allgemeinen Erklärung: der die Bediener/in steht im virtuellen Set und bewegt und steuert mit Hilfe der Controller seine Umgebung. Er/Sie kann sich dabei frei im Raum bewegen und mit der Umgebung interagieren. Der User/in ist dabei nicht an die Schwerkraft gebunden und kann sich mittels „beamen“ an jede Stelle und Höhe im Set bewegen. Die Controller dienen dabei als Zeige- und Bewegungswerkzeug.
 Die Benutzung des Systems von zwei Usern/innen gleichzeitig ist möglich. Durch die Einbindung des resultierenden Bildes aus der VR-Umgebung in eine Online-Umgebung wäre es möglich im Team zu arbeiten.
