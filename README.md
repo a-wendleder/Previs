@@ -65,7 +65,7 @@ Licht, Kamera (Optik), Rigs, Set-Teilen, gescannter Setarchitektur sowie Standin
 ## Datennutzung, -auswertung, -aufarbeitung:
 Am Ende des Prozesses steht die logische Weiterführung des Systems, nämlich die Auswertung und Nutzung der gewonnenen Daten. Es bestehen mehrere Möglichkeiten mit den gewonnenen Setdaten am realen Set weiterzuarbeiten :
 
-* AR-Einspielung direkt vor Ort mit Hilfe von Ipad, Iphone, Hololens, Magicleap würde eine große Hilfe bei der Set-Einrichtung -Konstruktion bieten (setzen von Markern mit Hilfe in VR gewonnener Proportionen und Abmessungen
+* AR-Einspielung direkt vor Ort mit Hilfe von iPad, iPhone, HoloLens, Magic Leap würde eine große Hilfe bei der Set-Einrichtung -Konstruktion bieten (setzen von Markern mit Hilfe in VR gewonnener Proportionen und Abmessungen
 * Mit Hilfe eines Beamers ließen sich voreingestellte Kameraperspektiven in den realen Raum projezieren um die virtuellen Platzierungsdaten der Geometrie anzuzeigen (incl. Dargestellter Bemaßung)
 * Baupläne und Rißzeichnungen ständen für Weiterbearbeitung verschiedener Gewerke und in Szenografie zur Verfügung
 * Ein 3D Abgrenzungsgitter ließe sich einblenden um den Schauspielern im green screen eine erleichterte Bewegung im nichtvorhandenen Set zu erleichtern (bei später in der VFX erstelltem set) 
